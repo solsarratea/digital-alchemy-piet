@@ -22,8 +22,7 @@
 ![](piet.png)
 ![](piet.png)
 ![](piet.png)
-![](piet.png)
-![](piet.png)
+
 
 Gathered togther resources for generating piet programs out of string input. Inspiried  by [this article: "Making Poetry in Piet" by Daniel Holden](http://theorangeduck.com/page/making-poetry-piet)
 

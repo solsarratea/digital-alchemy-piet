@@ -7,6 +7,7 @@ Source files are taken from:
 
 [this challenge](https://codegolf.stackexchange.com/questions/48820/string-to-image)
 
+![](piet.png)
 
 Other resources
 - [piet compiler](http://www.bertnase.de/npiet/)
